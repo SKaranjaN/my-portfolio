@@ -2,6 +2,8 @@
 
 A modern, responsive portfolio website built with React, TypeScript, and Vite.
 
+🔗 **Repository**: [https://github.com/SKaranjaN/my-portfolio](https://github.com/SKaranjaN/my-portfolio)
+
 ## Features
 
 - 🚀 Fast development with Vite
